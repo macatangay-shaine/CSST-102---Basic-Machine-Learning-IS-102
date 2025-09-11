@@ -1,0 +1,4 @@
+timestamp,student,AttendanceRule,AttendanceDetail,GradingRule,GradingDetail,LoginSystemRule,LoginDetail,BonusPointsRule,BonusDetail,LibraryBorrowingRule,LibraryDetail
+2025-09-11 11:21:55,Althea,True,attendance=70.0 -> eligible,True,grade=99.0 -> pass,False,"user_ok=False, pass_ok=False, locked=True -> login denied",True,"participated=True, base=96.0 -> bonus 5.0, final=101.0",True,"id_valid=True, overdue=False -> can borrow"
+2025-09-11 11:23:41,Kristel,,,,,True,"user_ok=True, pass_ok=True, locked=False -> login success",,,,
+2025-09-11 11:25:32,Johann,True,attendance=82.5 -> eligible,True,grade=96.0 -> pass,,,True,"participated=True, base=97.0 -> bonus 5.0, final=102.0",,
