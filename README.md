@@ -25,5 +25,3 @@ It demonstrates a complete machine-learning workflow—from data preprocessing, 
 6. Compare Logistic Regression with Decision Tree and SVM (optional +10 pts).  
 
 ---
-
-## 📂 Folder Structure
