@@ -1,4 +1,3 @@
-%%writefile README.md
 # 🧠 Machine Problem No. 2: Evaluating Machine Learning Model Performance
 
 ## Course Information
